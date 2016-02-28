@@ -1,0 +1,26 @@
+_repo: Marse-Henry-Volume-2-An-Autobiography_8459
+creator:
+  author:
+    agent_name: Watterson, Henry
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '2760'
+    url: http://www.gutenberg.org/2009/agents/2760
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Watterson
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Journalists -- Kentucky -- Biography'
+- !lcsh 'Watterson, Henry, 1840-1921'
+- !lcc 'E660'
+title: 'Marse Henry (Volume 2)
+
+  An Autobiography'
+url: http://www.gutenberg.org/ebooks/8459
